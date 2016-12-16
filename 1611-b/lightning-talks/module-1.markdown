@@ -1,6 +1,6 @@
-Alex Fosco:
+Alex Fosco: Are We Living in a Simulation?
 
-Outline:
+Outline: https://gist.github.com/alfosco/14d954bab7bd4b279b28a282c180870d
 
 
 Amara Lovato: Do you really wanna go to a resort for your vacation?
